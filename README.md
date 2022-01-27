@@ -7,9 +7,11 @@
 
 ***
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tkwind&theme=github_dark&langs_count=8)&emsp;
+![](https://gv.halberd.cn/tkwind?theme=digital&active=4C8EDA&deactive=0D1117&len=0&speed=100&size=30&space=5&tail=0)  
 ![](https://github-readme-stats.vercel.app/api?username=tkwind&show_icons=true&theme=github_dark)&emsp;
-![](https://gv.halberd.cn/tkwind?theme=digital&active=4C8EDA&deactive=0D1117&len=0&speed=100&size=30&space=5&tail=0)
+
+
 
 **Languages and Tools:**  
 
