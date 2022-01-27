@@ -28,6 +28,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=2C2255)
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=2C2255)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2C2255)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=2C2255)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=2C2255)
+![NestJs](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestJs&logoColor=2C2255)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=2C2255)
+![Npm](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm&logoColor=2C2255)
+![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=nodejs&logoColor=2C2255)
+
 
 
 **Find me elsewhere:**
@@ -35,15 +45,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:takedwind@gmail.com)](mailto:takedwin@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCuzLZd5XDhkjD-h_dxuZnzw?view_as=subscriber)](https://www.youtube.com/channel/UCuzLZd5XDhkjD-h_dxuZnzw?view_as=subscriber)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/takedwind/)](https://www.instagram.com/takedwind/)
-
+![Wechat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
 ## 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tkwind&theme=github_dark&langs_count=8)&emsp;
 ![](https://gv.halberd.cn/tkwind?theme=digital&active=4C8EDA&deactive=0D1117&len=0&speed=100&size=30&space=5&tail=0)  
 ![](https://github-readme-stats.vercel.app/api?username=tkwind&show_icons=true&theme=github_dark)&emsp;
-
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tkwind&layout=compact&theme=github_dark)&emsp;
 
 
   
