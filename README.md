@@ -7,9 +7,9 @@
 - 📫 How to reach me ...
 
 **Languages and Tools:**  
-![C](https://img.shields.io/badge/C-333333.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-333333.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-333333?style=flat&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-333333.svg?style=flat&logo=c&logoColor=230059)
+![C++](https://img.shields.io/badge/C++-333333.svg?style=flat&logo=c%2B%2B&logoColor=232391)
+![Swift](https://img.shields.io/badge/Swift-333333?style=flat&logo=swift&logoColor=F54A2A)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Dart](https://img.shields.io/badge/dart-333333.svg?style=flat&logo=dart&logoColor=white)
@@ -34,8 +34,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Xcode](https://img.shields.io/badge/Xcode-333333?style=flat&logo=Xcode&logoColor=007ACC)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333.svg?style=flat&logo=visual-studio-code&logoColor=0078d7)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![WebStorm](https://img.shields.io/badge/webstorm-333333?style=flat&logo=webstorm&logoColor=114433)
 
 
 **Find me elsewhere:**
