@@ -1,4 +1,4 @@
-## Hola, I'm [Qin Yong!](https://qinyong.site) 👋
+## Hola, I'm [Yong Qin!](https://qinyong.site) 👋
 
 - 👋 Hi, I’m @takewin
 - 👀 I’m interested in ...
