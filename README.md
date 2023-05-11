@@ -1,10 +1,18 @@
 ## Hola, I'm [Yong Qin!](https://qinyong.site) 👋
 
-- 👋 Hi, I’m @takedwind
+<!-- - 👋 Hi, I’m @takedwind
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
+
+- :apple: 我的职业：野生全栈开发工程师一枚，爱好读书，喜欢黑技术，[我的网站](https://qinyong.site/)
+- :cookie: 我的视频：[B站账号「十方三际」](https://space.bilibili.com/477250687)（`读书分享，全栈开发，逆向工程，黑科技`）
+- :honey_pot: 我的文章：[公众号「十方三际」](https://oss.qinyong.site/2023/20230511173551.png)（`技术类以及个人思考类文章`）
+- :tangerine: 我的联系：[微信号「takedwind」](http://oss.qinyong.site/2023/20230511174114.png)（`添加请备注事由`）
+- :strawberry: 我的网盘：[分享网盘「alist」](https://alist.qinyong.site/)（`需要下载内容请关注我的公众号`）
+- :watermelon: 活跃社区：[csdn](https://chocolate.blog.csdn.net/) | [juejin](https://juejin.im/) | [zhihu](https://www.zhihu.com/)
+- :earth_asia: 知识星球：[小狮子前端](https://chodocs.cn/zsxq.html)
 
 <!-- # 美景 -->
 <!-- https://user-images.githubusercontent.com/11729877/119362794-aa8c9180-bcdf-11eb-9488-ed7c9b50e150.mp4 -->
