@@ -61,7 +61,9 @@
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
 ## 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=takedwind&theme=github_dark&langs_count=8)&emsp;
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=takedwind&theme=github_dark&langs_count=8)&emsp; -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=29&pause=1000&color=2F81F7&random=false&width=435&lines=%E4%B8%96%E7%95%8C%E7%84%A1%E9%9D%9E%E6%98%AF%E9%80%99%E6%A8%A3%EF%BC%8C%E6%88%96%E6%98%AF%E9%82%A3%E6%A8%A3%E3%80%82)](https://git.io/typing-svg)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=takedwind&layout=compact&theme=github_dark)&emsp;
 ![](https://gv.halberd.cn/takedwind?theme=digital&active=4C8EDA&deactive=0D1117&len=0&speed=100&size=30&space=5&tail=0)  
 ![](https://github-readme-stats.vercel.app/api?username=takedwind&show_icons=true&theme=github_dark)&emsp;
