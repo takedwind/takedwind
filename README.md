@@ -15,7 +15,7 @@
 - :watermelon: 活跃社区：[github](https://github.com/) | [vercel](https://vercel.com/) | [replit](https://www.replit.com/)
 -->
 
-- :apple: 我的职业：[我的网站](https://qinyong.site/) （`致力于全栈开发，爱好读书，健身，学习，唱歌`）
+- :apple: 我的职业：[我的网站](https://qinyong.site/)（`致力于全栈开发，爱好读书，健身，学习，唱歌`）
 - :cookie: 我的视频：[哔哩哔哩](https://space.bilibili.com/477250687)（`读书分享，全栈开发，逆向工程，黑科技分享`）
 - :honey_pot: 我的文章：[微公众号](https://oss.qinyong.site/2023/20230511173551.png)（`技术类以及个人读书思考类文章`）
 - :tangerine: 我的联系：[个人微信](http://oss.qinyong.site/2023/20230511174114.png)（`添加请备注事由`）
