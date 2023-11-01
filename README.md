@@ -1,4 +1,5 @@
-## Hola, I'm [Yong Qin!](https://qinyong.site) 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&vCenter=true&random=false&width=435&lines=%E4%B8%96%E7%95%8C%E7%84%A1%E9%9D%9E%E6%98%AF%E9%80%99%E6%A8%A3%EF%BC%8C%E6%88%96%E6%98%AF%E9%82%A3%E6%A8%A3%E3%80%82)](https://git.io/typing-svg)&emsp;
+## Hola, I'm [takedwind!](https://qinyong.site) 👋
 
 <!-- - 👋 Hi, I’m @takedwind
 - 👀 I’m interested in ...
